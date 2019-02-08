@@ -1,5 +1,7 @@
 # Subgradient methods for the optimal soft margin hyperplane
 
+Created as a part of EECS 545 (Machine Learning) course at University of Michigan 
+
 Data : Download  the  file nuclear.mat.   The  variables x and y contain  training  data  for  a  binary classification problem.  
        The variables correspond to the total energy and tail energy of waveforms producedby a nuclear particle detector.  
        The classes correspond to neutrons and gamma rays. 
